@@ -7,7 +7,7 @@ The goal is to create a story to present to potential investors to stir interest
 
 ## Results
 
-[link to dashboard](https://public.tableau.com/app/profile/tony.giombetti/viz/CitiBikeWorkbook_16333093573820/Story1#1)
+[CitiBike Story](https://public.tableau.com/app/profile/tony.giombetti/viz/CitiBikeWorkbook_16333093573820/Story1#1)
 
 ![Bikeshare graph 1](https://user-images.githubusercontent.com/85756203/135904333-31b4119c-4a96-4d69-ae4f-e720682b5317.png)
 
